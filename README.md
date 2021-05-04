@@ -3,3 +3,5 @@
 React JS Fundamentals Course
 
 https://sueminlee.github.io/movie_app_2021/
+
+(only good at pc, not good at mobile(broken) -> Fundamentals)
